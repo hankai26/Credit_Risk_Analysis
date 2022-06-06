@@ -34,10 +34,8 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 
  - Use Ensemble Classifiers to Predict Credit Risk
- ### Balanced Random Forest Classifier
- 
+### Balanced Random Forest Classifier
+ Please help debug the code.
 
 ### Easy Ensemble AdaBoost Classifier
-
- describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
-
+ Please help debug the code.
