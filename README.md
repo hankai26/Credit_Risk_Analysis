@@ -7,20 +7,37 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 
 # Results
- This project consists of three technical analysis.
+ This project consists of six model analysis.
+
+ - Use Resampling Models to Predict Credit Risk
+    
+### Naive Random Oversampling
+![nro_1](https://github.com/hankai26/Credit_Risk_Analysis/blob/main/Module-17-Challenge/image/nro_1.png)
+
+![nro_2](https://github.com/hankai26/Credit_Risk_Analysis/blob/main/Module-17-Challenge/image/nro_2.png)
+
+### SMOTE Oversampling
+![smote_1](https://github.com/hankai26/Credit_Risk_Analysis/blob/main/Module-17-Challenge/image/smote_1.png)
+
+![smote_2](https://github.com/hankai26/Credit_Risk_Analysis/blob/main/Module-17-Challenge/image/smote_2.png)
+
+### Undersampling
+![under_1](https://github.com/hankai26/Credit_Risk_Analysis/blob/main/Module-17-Challenge/image/under_1.png)
+
+![under_2](https://github.com/hankai26/Credit_Risk_Analysis/blob/main/Module-17-Challenge/image/under_2.png)
+
+ - Use the SMOTEENN Algorithm to Predict Credit Risk
+### Combination (Over and Under) Sampling
+![smoteenn_1](https://github.com/hankai26/Credit_Risk_Analysis/blob/main/Module-17-Challenge/image/smoteenn_1.png)
+
+![smoteenn_2](https://github.com/hankai26/Credit_Risk_Analysis/blob/main/Module-17-Challenge/image/smoteenn_2.png)
+
+
+ - Use Ensemble Classifiers to Predict Credit Risk
+ ### Balanced Random Forest Classifier
  
- 
- Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
-# Summary
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+### Easy Ensemble AdaBoost Classifier
 
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
-
-
-![complete_vine](https://github.com/hankai26/Amazon_Vine_Analysis/blob/main/images/complete_vine.png)
-![complete_nonVine](https://github.com/hankai26/Amazon_Vine_Analysis/blob/main/images/complete_nonVine.png)
-
-
+ describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
